@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #141414; /* Netflix фон */
+  color: #fff;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 15px 30px;
+  background-color: #000;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav-container a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.nav-container a:hover {
+  color: #E50914;
+}
+
+.logo-text {
+  color: #E50914;
+  margin-right: 20px;
+}
+
+.genreBar {
+  display: flex;
+  gap: 15px;
+  padding: 20px;
+  overflow-x: auto;
+}
+
+.genreBar a {
+  color: #aaa;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.genreBar a:hover {
+  color: #E50914;
+}
+
+.starRating {
+  display: flex;
+}
+
+.starRating img {
+  width: 28px;
+  height: 28px;
+  margin-right: 6px;
+}
+
+/* App.css — добавьте при необходимости к существующим */
+.viewer-container {
+  position: relative;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 15px 30px;
+  background-color: #000;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo-text {
+  color: #E50914;
+  margin-right: 20px;
+}
