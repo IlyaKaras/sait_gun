@@ -36,6 +36,7 @@ function WeaponViewer({ weapon, selectedSlot, selectedModules, accessories, onSe
               top: slot.y,
               width: 120,
               height: 80,
+              transform: "translate(-50%, -50%)",
               objectFit: "contain",
               zIndex: slot.z
             }}
@@ -54,7 +55,9 @@ function WeaponViewer({ weapon, selectedSlot, selectedModules, accessories, onSe
             top: slot.y - 12,
             zIndex: 20,
             color: selectedSlot?.key === slot.key ? "#E50914" : "#fff",
-            backgroundColor: "rgba(255,255,255,0.08)"
+            backgroundColor: "rgba(255,255,255,0.08)",
+            borderRadius: "50%", 
+            boxShadow: "0 0 4px #00FF00"
           }}
         >
           <AddCircleOutlineIcon />

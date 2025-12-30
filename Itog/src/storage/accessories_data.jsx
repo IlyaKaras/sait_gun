@@ -9,7 +9,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545"],
     price: 5368,
-    image: "/src/images/modules/mag_pufgun_60_545.png",
+    image: "/src/images/modules/mag_pufgun_60_545.jpg",
     inStock: true,
     withAdapter: false
   },
@@ -19,7 +19,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545"],
     price: 7510,
-    image: "/src/images/modules/mag_stich_60_545_olive.png",
+    image: "/src/images/modules/mag_stich_60_545_olive.webp",
     inStock: true,
     withAdapter: false
   },
@@ -29,7 +29,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545"],
     price: 3590,
-    image: "/src/images/modules/mag_rpk74_bakelite_45.png",
+    image: "/src/images/modules/mag_rpk74_bakelite_45.webp",
     inStock: false,
     withAdapter: false
   },
@@ -39,7 +39,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545"],
     price: 3100,
-    image: "/src/images/modules/mag_ak74_30.png",
+    image: "/src/images/modules/mag_ak74_30.jpg",
     inStock: true,
     withAdapter: false
   },
@@ -51,7 +51,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["saiga_223"],
     price: 3200,
-    image: "/src/images/modules/mag_saiga_223_30.png",
+    image: "/src/images/modules/mag_saiga_223_30.webp",
     inStock: true,
     withAdapter: false
   },
@@ -63,7 +63,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["vepr_308"],
     price: 3500,
-    image: "/src/images/modules/mag_vepr_308_5.png",
+    image: "/src/images/modules/mag_vepr_308_5.jpeg",
     inStock: true,
     withAdapter: false
   },
@@ -85,7 +85,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["tigr_svd"],
     price: 5200,
-    image: "/src/images/modules/mag_tigr_10.png",
+    image: "/src/images/modules/mag_tigr_10.webp",
     inStock: true,
     withAdapter: false
   },
@@ -97,7 +97,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["saiga_12"],
     price: 2900,
-    image: "/src/images/modules/mag_saiga12_5.png",
+    image: "/src/images/modules/mag_saiga12_5.jpg",
     inStock: true,
     withAdapter: false
   },
@@ -107,7 +107,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["saiga_12"],
     price: 3600,
-    image: "/src/images/modules/mag_saiga12_10.png",
+    image: "/src/images/modules/mag_saiga12_10.webp",
     inStock: true,
     withAdapter: false
   },
@@ -117,7 +117,7 @@ export const accessories = [
     type: "magazine",
     compatibility: ["saiga_12"],
     price: 8900,
-    image: "/src/images/modules/drum_saiga12_20.png",
+    image: "/src/images/modules/drum_saiga12_20.webp",
     inStock: true,
     withAdapter: true
   },
@@ -129,7 +129,7 @@ export const accessories = [
     type: "sight",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223", "vepr_308", "saiga_12"],
     price: 9500,
-    image: "/src/images/modules/sight_pk01.png",
+    image: "/src/images/modules/sight_pk01.jpg",
     inStock: true,
     withAdapter: false
   },
@@ -139,7 +139,7 @@ export const accessories = [
     type: "sight",
     compatibility: ["tigr_svd", "vepr_308"],
     price: 18500,
-    image: "/src/images/modules/sight_posp_4x24.png",
+    image: "/src/images/modules/sight_psop_4x24.jpeg",
     inStock: true,
     withAdapter: true
   },
@@ -149,7 +149,7 @@ export const accessories = [
     type: "sight",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223", "saiga_12"],
     price: 21000,
-    image: "/src/images/modules/sight_holosun_hs403.png",
+    image: "/src/images/modules/sight_holosun_hs403.jpg",
     inStock: true,
     withAdapter: false
   },
@@ -159,7 +159,7 @@ export const accessories = [
     type: "sight",
     compatibility: ["vepr_308", "tigr_svd"],
     price: 46000,
-    image: "/src/images/modules/sight_leupold_vxf_3_9x40.png",
+    image: "/src/images/modules/sight_leupold_vxf_3_9x40.jpg",
     inStock: true,
     withAdapter: true
   },
@@ -169,7 +169,7 @@ export const accessories = [
     type: "sight",
     compatibility: ["tr3_gen1_545", "saiga_223"],
     price: 82000,
-    image: "/src/images/modules/sight_acog_4x.png",
+    image: "/src/images/modules/sight_acog_4x.webp",
     inStock: false,
     withAdapter: true
   },
@@ -181,7 +181,7 @@ export const accessories = [
     type: "stock",
     compatibility: ["saiga_mk_030_545", "saiga_12"],
     price: 8500,
-    image: "/src/images/modules/stock_fold_ak74m.png",
+    image: "/src/images/modules/stock_fold_ak74m.jpg",
     inStock: true,
     withAdapter: false
   },
@@ -191,7 +191,7 @@ export const accessories = [
     type: "stock",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223"],
     price: 16500,
-    image: "/src/images/modules/stock_fab_telescopic.png",
+    image: "/src/images/modules/stock_fab_telescopic.webp",
     inStock: true,
     withAdapter: true
   },
@@ -211,7 +211,7 @@ export const accessories = [
     type: "stock",
     compatibility: ["tigr_svd"],
     price: 18000,
-    image: "/src/images/modules/stock_svd_wood.png",
+    image: "/src/images/modules/stock_svd_wood.webp",
     inStock: true,
     withAdapter: false
   },
@@ -223,7 +223,7 @@ export const accessories = [
     type: "grip",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223", "saiga_12"],
     price: 0,
-    image: "/src/images/modules/grip_ak_standard.png",
+    image: "/src/images/modules/grip_ak_standart.jpg",
     inStock: true,
     withAdapter: false
   },
@@ -233,7 +233,7 @@ export const accessories = [
     type: "grip",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223"],
     price: 7400,
-    image: "/src/images/modules/grip_magpul_moe.png",
+    image: "/src/images/modules/grip_magpul_moe.webp",
     inStock: true,
     withAdapter: false
   },
@@ -245,7 +245,7 @@ export const accessories = [
     type: "gas_tube",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223", "saiga_12"],
     price: 0,
-    image: "/src/images/modules/gas_tube_stock.png",
+    image: "/src/images/modules/gas_tube_stock.webp",
     inStock: true,
     withAdapter: false
   },
@@ -257,7 +257,7 @@ export const accessories = [
     type: "rail",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223"],
     price: 5200,
-    image: "/src/images/modules/rail_picatinny_upper.png",
+    image: "/src/images/modules/rail_picatinny_upper.jpeg",
     inStock: true,
     withAdapter: true
   },
@@ -267,7 +267,7 @@ export const accessories = [
     type: "rail",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223", "saiga_12"],
     price: 11800,
-    image: "/src/images/modules/rail_mlok_handguard.png",
+    image: "/src/images/modules/rail_mlock_hanguard.jpg",
     inStock: true,
     withAdapter: true
   },
@@ -279,7 +279,7 @@ export const accessories = [
     type: "muzzle",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223"],
     price: 6200,
-    image: "/src/images/modules/muzzle_brake_ak.png",
+    image: "/src/images/modules/muzzle_brake_ak.jpg",
     inStock: true,
     withAdapter: false
   },
@@ -289,7 +289,7 @@ export const accessories = [
     type: "muzzle",
     compatibility: ["saiga_mk_030_545", "tr3_gen1_545", "saiga_223", "saiga_12"],
     price: 4800,
-    image: "/src/images/modules/flash_hider_ak.png",
+    image: "/src/images/modules/flash_hider_ak.jpg",
     inStock: true,
     withAdapter: false
   }
